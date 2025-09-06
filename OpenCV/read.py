@@ -5,7 +5,7 @@ img = cv.imread('Photos/Picture8.jpg')
 cv.imshow('Fairy Tail', img)
 
 cv.waitKey(0)
-
+# this is a test.
 # vid = cv.VideoCapture('Videos\[Fairy Tail] NaLu Moment Lucy Hugs Natsu Clip [English Subbed].mp4')
 
 # while True:
