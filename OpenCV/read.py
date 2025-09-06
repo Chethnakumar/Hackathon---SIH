@@ -1,6 +1,6 @@
 import cv2 as cv
-# print(cv.__version__)
-img = cv.imread('Photos/Picture8.jpg')
+print(cv.__version__)
+img = cv.imread('OpenCV\\Photos\\Picture6.jpg')
 
 cv.imshow('Fairy Tail', img)
 
